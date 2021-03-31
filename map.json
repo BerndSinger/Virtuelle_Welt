@@ -35,7 +35,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"..\/Floor1\/floor1.json"
                 }],
@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/berndsinger.github.io\/Virtuelle_Welt\/wiese.json"
+                 "value":"https:\/\/berndsinger.github.io\/Virtuelle_Welt\/wiese.json"
                 }],
          "type":"tilelayer",
          "visible":true,
