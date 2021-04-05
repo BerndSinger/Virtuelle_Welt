@@ -84,6 +84,56 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":20,
+         "firstgid":856,
+         "image":"tilesets\/gather_plants_1.2.png",
+         "imageheight":1408,
+         "imagewidth":640,
+         "margin":0,
+         "name":"gather_plants_1.2",
+         "spacing":0,
+         "tilecount":880,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":84,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":85,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":104,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":105,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
